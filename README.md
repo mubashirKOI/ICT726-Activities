@@ -11,9 +11,9 @@ Alex, a dedicated web developer, wishes to improve the structure and semantics o
   + Content: Introduction about Alex, skills, passion and image.
 3. Project Section
   + Display projects with titles, image and descriptions.
-  + Add at least three projects using <details> tag.
+  + Add at least three projects using 'details' tag.
 4. Skill Section
-  + List of skills and proficiency using <table> tag.
+  + List of skills and proficiency using 'table' tag.
 5. Blog Section
   + Blog posts with titles and content.
 6. Media Section

@@ -5,22 +5,21 @@ Alex, a dedicated web developer, wishes to improve the structure and semantics o
 
 
 1. Header Section
-  + Content: Name and professional title
-  + Navigation Bar: Links to sections (About, Projects, Blog, Media, Contact).
+   - Content: Name and professional title
+   - Navigation Bar: Links to sections (About, Projects, Blog, Media, Contact).
 2. About Section
-  + Content: Introduction about Alex, skills, passion and image.
+   - Content: Introduction about Alex, skills, passion and image.
 3. Project Section
-  + Display projects with titles, image and descriptions.
-  + Add at least three projects using 'details' tag.
+   - Display projects with titles, image and descriptions.
+   - Add at least three projects using 'details' tag.
 4. Skill Section
-  + List of skills and proficiency using 'table' tag.
+   - List of skills and proficiency using 'table' tag.
 5. Blog Section
-  + Blog posts with titles and content.
+   - Blog posts with titles and content.
 6. Media Section
-  + Embedded one video and audio.
+   - Embedded one video and audio.
 7. Footer 
-  + Copyright and profession information.
-    
-You need to make sure to use the semantically correct HTML. You can view the final page design on the following link
+   - Copyright and profession information.
+ _You need to make sure to use the semantically correct HTML. You can view the final page design on the following link_
 
 
